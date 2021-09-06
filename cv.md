@@ -21,6 +21,7 @@
 ```javascript 
 
 let dir;
+
 function direction(event) {
 
     if (event.code == "KeyA" && dir != "right")
